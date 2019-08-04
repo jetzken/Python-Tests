@@ -1,2 +1,2 @@
 # Python Tests
- Pytho test scripts for learning
+ Python test scripts for learning
